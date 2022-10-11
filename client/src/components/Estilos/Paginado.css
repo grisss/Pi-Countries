@@ -1,0 +1,16 @@
+.indexCont{
+    width: 50px;
+    height: 40px;
+    background-color: #030e12;
+    display: flex;
+    justify-content: center;
+    color: white;
+    margin: 0 5px 0 5px;
+    align-items: center;
+
+
+}
+.numBox{
+    display: flex;
+    margin: 1rem 0;
+}

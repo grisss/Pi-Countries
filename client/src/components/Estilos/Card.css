@@ -1,0 +1,22 @@
+.card{
+    width: 150px;
+    border-radius: 1rem;
+    background-color: #030e12;
+    padding: 5px;
+    justify-content: space-around;
+
+
+}
+.imagen{
+    width: 100%;
+    border-radius: 1rem 1rem 0 0;
+}
+
+.name{
+    color: white;
+    font-size: 10px;
+}
+.continent{
+    color: white;
+    font-size: 10px;
+}

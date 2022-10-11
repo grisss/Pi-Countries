@@ -1,0 +1,48 @@
+.title1{
+    color: black;
+    margin: 100px;
+    text-align:justify;
+    position: relative; top: 100px;
+    left: 250px;
+}
+.button1{
+    background-color: blanchedalmond;
+    color:black;
+    padding: 15px 10px;
+    letter-spacing: 4px;
+    font-size: 20px;
+    border-radius: 10px;
+    text-decoration: none;
+    overflow: hidden;
+    transition: 0.2s;
+    margin: 30px;
+    text-decoration:dashed;
+    position: relative; top: -100px;
+    right:60px;
+    display: inline-block;
+    
+   
+}
+
+.lorem2{
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+    position: relative; top: -50px;
+    right: -70px;
+    border: 3px solid white;
+    
+
+}
+.h{
+    width: 80%;
+    height: 7px;
+    color: white;
+    border: 0 none;
+    margin-right: auto ;
+    margin-left: auto;
+    margin-top: 200px;
+    margin-bottom: 90px;
+    background-color: white;
+    position: relative; top: -300px;
+}

@@ -1,0 +1,16 @@
+.search{
+    position: relative; top: -19px;
+    outline: none;
+    border: none;
+    outline: none;
+    position: relative; top: 15px;
+    font-size: 10px;
+    color:#000;
+
+
+  
+}
+.btn{
+    background-color: #000;
+    color: white;
+}
